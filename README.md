@@ -1,5 +1,5 @@
 # Fishing: Barents Sea - Game Save Editor
-Created: 9/7/2020
+Created: 9/7/2020  
 Version: 1.0-alpha
 
 ----------
@@ -19,6 +19,7 @@ At this time the following keys are mapped and can be modified:
 * DistanceTraveledInKm
 
 With these two keys you can change your funds in game as well as unlock the boating certifications.
+<<<<<<< HEAD
 
 ### Usage
 
