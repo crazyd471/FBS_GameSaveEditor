@@ -19,7 +19,6 @@ At this time the following keys are mapped and can be modified:
 * DistanceTraveledInKm
 
 With these two keys you can change your funds in game as well as unlock the boating certifications.
-<<<<<<< HEAD
 
 ### Usage
 
