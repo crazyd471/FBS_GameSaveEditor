@@ -29,4 +29,4 @@ With these two keys you can change your funds in game as well as unlock the boat
 
 **Warning: At this time the script does not create a backup!**
 
-![](http://location)
+![](https://github.com/crazyd471/FBS_GameSaveEditor/blob/master/images/animation.gif)
