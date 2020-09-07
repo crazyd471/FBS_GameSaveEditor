@@ -19,3 +19,13 @@ At this time the following keys are mapped and can be modified:
 * DistanceTraveledInKm
 
 With these two keys you can change your funds in game as well as unlock the boating certifications.
+
+### Usage
+
+1. Open a command prompt and navigate to the location of the `FBS_GameSaveEditor.py` script you've downloaded.
+2. run `python FBS_GameSaveEditor.py` 
+3. Follow the on-screen prompts
+
+**Warning: At this time the script does not create a backup!**
+
+![](http://location)
