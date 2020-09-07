@@ -4,7 +4,7 @@ GameSaveLocation = os.environ["userprofile"] + "\AppData\Local\FBS\Saved\SaveGam
 GameSaveIndexes = []
 GameSaveFile = ""
 MenuTitleBar = "============================================================\n"
-MenuTitle = "Fishing: Barents Sea - Game Save Editor v1.0\nWritten By: David Wroten\n"
+MenuTitle = "Fishing: Barents Sea - Game Save Editor v1.0-alpha\nWritten By: David Wroten\n"
 
 def SelectGameSave():
     global GameSaveFile
